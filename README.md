@@ -50,6 +50,7 @@ python main.py
 
 
 **​📦 Requirement**
+
 °No external packages needed
 
 °Works using standard Python libraries only (socket, threading, time) 

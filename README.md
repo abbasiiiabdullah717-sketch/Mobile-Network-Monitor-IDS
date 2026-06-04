@@ -5,8 +5,11 @@
 ​​**📌 Features**
 
 ​• Monitors local transport layer traffic on port 9999
+
 • Simulates custom log data and fake network alerts for testing
+
 • Uses multi-threading so the sniffer and generator run at the same time
+
 • Designed to run easily on android phone environments like Pydroid 3 without root permissions
 
 ​**🧠 How It Works**
@@ -16,8 +19,10 @@
 ​**📂 Project Structure**
 
 ​network_monitor_ids/
-├── main.py
-└── README.md
+
+ main.py
+ 
+README.md
 
 **​🚀 How To Run**
 
@@ -39,9 +44,12 @@ python main.py
 *PACKET CAPTURED From*: 127.0.0.1:39571
     Payload/Data: ALERT: Malicious activity log test #1
 
-[->] *Generator packet 2..PACKET [PACKET CAPTUR: 12From: 127.0.0.1:39Payload PayloaALERTa: ALERT: Malicious activityexternalrnalrnal test #2
+*Generator*: Sent packet 2..
+
+*PACKET CAPTURE From*:127.0.0.1:39571      Payload/data: ALERT: Malicious activity log test #2
 
 
 **​📦 Requirement**
-No external packages nstand
-ardWorks using standard Python libraries only (socket, threading, time)
+°No external packages needed
+
+°Works using standard Python libraries only (socket, threading, time) 

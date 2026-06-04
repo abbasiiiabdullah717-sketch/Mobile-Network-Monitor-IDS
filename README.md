@@ -28,23 +28,20 @@ python main.py
 
 **📋 Example Output**
 
-​=== CYBER SECURITY PROJECT: NETWORK MONITORING TOOL ===
+*CYBER SECURITY PROJECT: NETWORK MONITORING TOOL*
 
-[*] Sniffer Thread: Active & Listening on port 9999...
+*Sniffer Thread*: Active & Listening on port 9999...
 
-[*] Generator Thread: Starting traffic simulation...
-[->] Generator: Sent packet 1...
+*Generator Thread*: Starting traffic simulation...
 
-[+] [PACKET CAPTURED] From: 127.0.0.1:39571
+*Generator*: Sent packet 1...
+
+*PACKET CAPTURED From*: 127.0.0.1:39571
     Payload/Data: ALERT: Malicious activity log test #1
 
-[->] Generator: Sent packet 2...
-
-[+] [PACKET CAPTURED] From: 127.0.0.1:39571
-    Payload/Data: ALERT: Malicious activity log test #2
+[->] *Generator packet 2..PACKET [PACKET CAPTUR: 12From: 127.0.0.1:39Payload PayloaALERTa: ALERT: Malicious activityexternalrnalrnal test #2
 
 
-**​📦 Requirements**
-
-​• No external packages needed
-• Works using standard Python libraries only (socket, threading, time)
+**​📦 Requirement**
+No external packages nstand
+ardWorks using standard Python libraries only (socket, threading, time)
